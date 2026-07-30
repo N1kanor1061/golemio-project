@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: aq_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: air_quality
+      POSTGRES_USER: aq_user
+      POSTGRES_PASSWORD: aq_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - aq_pg_data:/var/lib/postgresql/data
+
+volumes:
+  aq_pg_data:
+  
