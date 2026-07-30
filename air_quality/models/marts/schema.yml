@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: dim_stations
+    description: Справочник станций контроля качества воздуха.
+    columns:
+      - name: station_id
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_air_quality_readings
+    description: Измерения загрязнителей по станциям.
+    columns:
+      - name: station_id
+        tests:
+          - not_null
+      - name: pollutant
+        tests:
+          - not_null
+      - name: value
+        tests:
+          - not_null
