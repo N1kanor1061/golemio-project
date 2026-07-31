@@ -1,0 +1,50 @@
+station_id,station_name,district,pollutant,value,averaged_hours,latitude,longitude
+ABREA,Praha 6-Břevnov,praha-6,PM10,37.2,3,50.084385,14.380116
+ABREA,Praha 6-Břevnov,praha-6,NO2,9.9,3,50.084385,14.380116
+AHOLA,Praha 7-Holešovice,praha-7,PM2_5,31.6,3,50.108845,14.44365
+AHOLA,Praha 7-Holešovice,praha-7,PM10,53.5,3,50.108845,14.44365
+AHOLA,Praha 7-Holešovice,praha-7,NO2,28.4,3,50.108845,14.44365
+ACHOA,Praha 4-Chodov,praha-11,PM10,41.4,3,50.03017,14.51745
+ACHOA,Praha 4-Chodov,praha-11,NO2,8.4,3,50.03017,14.51745
+AKALA,Praha 8-Karlín,praha-8,PM10,61,3,50.094238,14.442049
+AKALA,Praha 8-Karlín,praha-8,NO2,59.9,3,50.094238,14.442049
+AKOBA,Praha 8-Kobylisy,praha-8,PM10,37.7,3,50.122189,14.467578
+AKOBA,Praha 8-Kobylisy,praha-8,O3,110,3,50.122189,14.467578
+AKOBA,Praha 8-Kobylisy,praha-8,NO2,13,3,50.122189,14.467578
+ALEGA,Praha 2-Legerova (hot spot),praha-2,PM2_5,21,3,50.072388,14.430673
+ALEGA,Praha 2-Legerova (hot spot),praha-2,PM10,63.8,3,50.072388,14.430673
+ALEGA,Praha 2-Legerova (hot spot),praha-2,NO2,42.5,3,50.072388,14.430673
+ALERA,Letiště Praha,praha-6,PM2_5,16.8,3,50.107086,14.257226
+ALERA,Letiště Praha,praha-6,PM10,110.1,3,50.107086,14.257226
+ALERA,Letiště Praha,praha-6,O3,103,3,50.107086,14.257226
+ALERA,Letiště Praha,praha-6,NO2,16.2,3,50.107086,14.257226
+ALIBA,Praha 4-Libuš,praha-12,SO2,3.8,3,50.007305,14.445933
+ALIBA,Praha 4-Libuš,praha-12,PM2_5,27.3,3,50.007305,14.445933
+ALIBA,Praha 4-Libuš,praha-12,PM10,33.4,3,50.007305,14.445933
+ALIBA,Praha 4-Libuš,praha-12,O3,126.3,3,50.007305,14.445933
+ALIBA,Praha 4-Libuš,praha-12,NO2,5.8,3,50.007305,14.445933
+APRUA,Praha 10-Průmyslová,praha-15,PM10,53.7,3,50.062298,14.53782
+APRUA,Praha 10-Průmyslová,praha-15,NO2,42.4,3,50.062298,14.53782
+AREPA,Praha 1-n. Republiky,praha-1,PM10,72.7,3,50.088066,14.42922
+AREPA,Praha 1-n. Republiky,praha-1,NO2,44,3,50.088066,14.42922
+ARERA,Praha 5-Řeporyje,praha-reporyje,PM2_5,15.3,3,50.030514,14.309583
+ARERA,Praha 5-Řeporyje,praha-reporyje,PM10,57.2,3,50.030514,14.309583
+ARERA,Praha 5-Řeporyje,praha-reporyje,NO2,14.3,3,50.030514,14.309583
+ARIEA,Praha 2-Riegrovy sady,praha-2,SO2,5.4,3,50.081482,14.442692
+ARIEA,Praha 2-Riegrovy sady,praha-2,PM2_5,35.5,3,50.081482,14.442692
+ARIEA,Praha 2-Riegrovy sady,praha-2,PM10,56,3,50.081482,14.442692
+ARIEA,Praha 2-Riegrovy sady,praha-2,O3,110.3,3,50.081482,14.442692
+ARIEA,Praha 2-Riegrovy sady,praha-2,NO2,18,3,50.081482,14.442692
+ASROA,Praha 10-Šrobárova,praha-10,PM2_5,12.9,3,50.07515,14.472661
+ASROA,Praha 10-Šrobárova,praha-10,PM10,42,3,50.07515,14.472661
+ASROA,Praha 10-Šrobárova,praha-10,NO2,4.2,3,50.07515,14.472661
+ASTOA,Praha 5-Stodůlky,praha-13,PM2_5,37.3,3,50.046131,14.331413
+ASTOA,Praha 5-Stodůlky,praha-13,PM10,57.8,3,50.046131,14.331413
+ASTOA,Praha 5-Stodůlky,praha-13,O3,93.7,3,50.046131,14.331413
+ASUCA,Praha 6-Suchdol,praha-lysolaje,PM10,43.5,3,50.12653,14.384639
+ASUCA,Praha 6-Suchdol,praha-lysolaje,O3,127.7,3,50.12653,14.384639
+AVRSA,Praha 10-Vršovice,praha-10,PM10,47.5,3,50.066429,14.446152
+AVRSA,Praha 10-Vršovice,praha-10,NO2,25.6,3,50.066429,14.446152
+AVYNA,Praha 9-Vysočany,praha-9,PM10,50,3,50.11108,14.503096
+AVYNA,Praha 9-Vysočany,praha-9,O3,67.6,3,50.11108,14.503096
+AVYNA,Praha 9-Vysočany,praha-9,NO2,35.6,3,50.11108,14.503096
