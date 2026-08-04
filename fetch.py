@@ -38,11 +38,11 @@ def fetch_air_quality(retries=3):
 
 def save_raw(data):
     conn = psycopg2.connect(
-        host="localhost",
-        port=5432,
-        dbname="air_quality",
-        user="aq_user",
-        password="aq_password",
+        host=os.environ.get("PGHOST", "localhost"),
+        port=os.environ.get("PGPORT", "5432"),
+        dbname=os.environ["PGDATABASE"],
+        user=os.environ["PGUSER"],
+        password=os.environ["PGPASSWORD"],
     )
     try:
         with conn:
