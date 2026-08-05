@@ -30,8 +30,8 @@ Python, PostgreSQL (Docker), dbt, Prefect, Tableau Public, git/GitHub.
 
 ## Setup
 
-Requires: Python 3, Docker Desktop, a free Golemio API token
-(https://api.golemio.cz).
+Requires: Python 3.11+ (tested with 3.11.0), Docker Desktop, a free Golemio API
+token (https://api.golemio.cz).
 
 1. Clone the repo and enter it:
    ```
